@@ -1,4 +1,4 @@
-'use strict';
+'use strick';
 
 let instance;
 const galleryEl = document.querySelector('.gallery');
